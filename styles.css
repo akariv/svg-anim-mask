@@ -15,7 +15,7 @@ img {
   height: 100%;
   mask-image: url('real_animation.svg');
   mask-position: center left;
-  mask-size: contain;
+  mask-size: 100%;
   mask-repeat: no-repeat;
   animation: showhide;
   animation-duration: 4s;
