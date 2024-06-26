@@ -13,7 +13,7 @@ img {
   left: 0;
   width: fit-content;
   height: 100%;
-  width: 100%;
+  width: 80%;
   mask-image: url('real_animation.svg');
   mask-position: center left;
   mask-size: 100% 100%;
