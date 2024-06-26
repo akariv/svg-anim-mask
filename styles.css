@@ -13,6 +13,7 @@ img {
   left: 0;
   width: fit-content;
   height: 100%;
+  width: 100%;
   mask-image: url('real_animation.svg');
   mask-position: center left;
   mask-size: 100% 100%;
@@ -21,6 +22,7 @@ img {
   animation-duration: 4s;
   animation-iteration-count: infinite;
   animation-delay: 0s;
+  object-fit: cover;
 }
 
 img:nth-child(1) {
